@@ -2,7 +2,7 @@ import Foundation
 
 class TranslationService {
     static let shared = TranslationService()
-    private let apiKey = "AIzaSyANQMJS6wdzmokkSE4kz197FxcqXtEOJVI" // API de Google Translate
+    private let apiKey = "GOOGLE_API_KEY" // API de Google Translate
 
     private init() {}
 
