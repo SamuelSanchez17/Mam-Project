@@ -94,7 +94,7 @@ Sección para aprender más sobre elementos culturales, con navegación a módul
 ## 📂 Estructura del proyecto (resumen)
 
 > Este repositorio corresponde a una **versión piloto / prototipo de desarrollo** utilizada para validar la experiencia, navegación, módulos educativos y la integración de traducción.  
-> La **versión final en producción** se mantiene en un repositorio **privado** por motivos de **confidencialidad** y acuerdos con la institución educativa.
+> La **versión productiva/final** se mantiene en un repositorio **privado** por motivos de **confidencialidad** y acuerdos con la institución educativa (alcance, contenido y/o materiales licenciados).
 
 ```text
 ProjectMam/
@@ -140,5 +140,12 @@ ProjectMam/
 
 ## 👨‍💻 Autores
 
-**Samuel Sánchez Guzmán**  
-**Braulio Coutiño Morales**  
+**Samuel Sánchez Guzmán** — iOS (SwiftUI), arquitectura por módulos, localización (i18n) e integración de servicios (API de traducción).  
+**Braulio Coutiño Morales** — iOS (SwiftUI), apoyo en contenido/estructura del proyecto y validación funcional del flujo educativo-cultural.  
+
+---
+
+## 📄 Licencia
+
+**© 2024–2026. Todos los derechos reservados.**  
+Este repositorio se publica con fines demostrativos/educativos. Para usos, redistribución o implementación en producción, por favor contacta a los autores.
