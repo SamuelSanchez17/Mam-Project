@@ -34,16 +34,16 @@ Este repositorio está pensado como un proyecto demostrativo de:
           ┌─────────────┴─────────────┐
           ▼                           ▼
 ┌───────────────────────┐   ┌───────────────────────┐
-│  Localización (i18n)  │   │ Traducción (API)       │
-│  LanguageManager      │   │ TranslationService     │
-│  JSON por idioma      │   │ Google Translate API   │
+│  Localización (i18n)  │   │ Traducción (API)      │
+│  LanguageManager      │   │ TranslationService    │
+│  JSON por idioma      │   │ Google Translate API  │
 └───────────────────────┘   └───────────────────────┘
                         │
                         ▼
-            ┌─────────────────────────┐
+            ┌───────────────────────────┐
             │ Experiencias interactivas │
             │ Lecciones / Juegos        │
-            └─────────────────────────┘
+            └───────────────────────────┘
 ```
 
 ---
